@@ -28,20 +28,29 @@ A full-stack MERN application that mimics core features of Zerodha, including lo
 __________________________________________________________________________________________________________________________________________________________________________________________________
 
 📦 Packages & Libraries Used
+🎨 Bootstrap 5.3 – For responsive UI design
 
-📁 Package / Library	                 🧩 Purpose
-🎨 Bootstrap 5.3	                      Responsive design
-🧱 Material UI	                         Pre-styled UI Components
-🚂 Express.js                           	Web server framework
-🍃 Mongoose                             	MongoDB object modeling
-🧂 Bcrypt	                                Password hashing
-🔐 JWT	                                  JSON Web Token for auth
-📊 Chart.js	                              Graphs and visualizations
-🌐 Axios	                                API calls and HTTP client
-🧭 React Router                           DOM	Navigation & routing
-🛡️ Passport                              	Authentication
-🌍 CORS                                 	Cross-origin resource sharing
-🧾 Body-Parser	                        Middleware for parsing request body
+🧱 Material UI – Pre-built and customizable UI components
+
+🚂 Express.js – Web framework for Node.js (backend APIs)
+
+🍃 Mongoose – MongoDB ODM (Object Data Modeling) for Node.js
+
+🧂 Bcrypt – For securely hashing passwords
+
+🔐 JWT (JSON Web Token) – For secure user authentication
+
+📊 Chart.js – Used to display visual graphs and stock data
+
+🌐 Axios – Promise-based HTTP client for API requests
+
+🧭 React Router DOM – Enables client-side routing in React
+
+🛡️ Passport – Authentication middleware (used with JWT)
+
+🌍 CORS – Handles cross-origin requests between frontend & backend
+
+🧾 Body-Parser – Parses incoming request bodies in middleware
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 🎯 Features:
 
